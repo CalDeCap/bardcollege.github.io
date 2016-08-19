@@ -3,11 +3,7 @@
  * July 2016
  * ported ELIZA (https://github.com/dhconnelly/paip-python) to javascript;
  * from that program:
- * 
- *  "Eliza is a pattern-matching automated psychiatrist. Given a set
- *   of rules in the form of input/output patterns, Eliza will attempt
- *   to recognize user input phrases and generate relevant
- *   psychobabble responses.
+ *
  * 
  *   Each rule is specified by an input pattern and a list of output
  *   patterns. A pattern is a sentence consisting of space-separated
